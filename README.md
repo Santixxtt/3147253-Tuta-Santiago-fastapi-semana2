@@ -1,8 +1,8 @@
-# 📚 Proyecto Semana 4 - FastAPI CRUD 
+# 📚 Proyecto Semana 2 - FastAPI CRUD 
 
-Este proyecto usa como base y ejemplo mi parte de mi proyecto de entrega permitiendo realizar un **CRUD**, en este caso solo en la entidad `Usuario`.
+Este proyecto usa como base y ejemplo mi parte de mi proyecto de entrega permitiendo realizar un **CRUD**, en este caso solo en la entidad `Usuario`. usando validación de datos automáticamente.
 
-La base de datos usada es **SQLite** mediante **SQLAlchemy ORM**.
+La base de datos usada es **SQLite** mediante **SQLAlchemy ORM**. validación de datos con **Pydantic**
 
 ---
 
@@ -11,6 +11,6 @@ La base de datos usada es **SQLite** mediante **SQLAlchemy ORM**.
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Uvicorn](https://www.uvicorn.org/)
-
+- [Pydantic](https://www.pydantic.org/)
 ---
 
