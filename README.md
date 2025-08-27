@@ -1,4 +1,4 @@
-# 📚 Proyecto Semana 2 - FastAPI CRUD 
+# 📚 Proyecto Semana 2 - FastAPI Validación de Datos 
 
 Este proyecto usa como base y ejemplo mi parte de mi proyecto de entrega permitiendo realizar un **CRUD**, en este caso solo en la entidad `Usuario`. usando validación de datos automáticamente.
 
