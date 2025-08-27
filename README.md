@@ -9,8 +9,6 @@ La base de datos usada es **SQLite** mediante **SQLAlchemy ORM**. validación de
 ## 🚀 Tecnologías usadas
 - [Python 3.11+](https://www.python.org/)
 - [FastAPI](https://fastapi.tiangolo.com/)
-- [SQLAlchemy](https://www.sqlalchemy.org/)
-- [Uvicorn](https://www.uvicorn.org/)
-- [Pydantic](https://www.pydantic.org/)
+
 ---
 
